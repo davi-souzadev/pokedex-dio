@@ -1,11 +1,12 @@
 # Pokédex
 
 ## Desktop
-![Desktop](./assets/img/preview-desktop.png)
+<img src="./assets/img/preview-desktop.png" alt="drawing" width="700"/>
 
 ## Mobile
-![Mobile](./assets/img/preview-mobile.png)
+<img src="./assets/img/preview-mobile.png" alt="drawing" height="700"/>
 
+## Descrição
 <p>
   Pokedéx desenvolvida no módulo de JavaScript do bootcamp dio Orange Tech+
 </p>
